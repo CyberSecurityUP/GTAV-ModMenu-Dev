@@ -27,4 +27,9 @@
 - **Updating and Testing**: Each time you modify the script, save the file and reload it in the menu.
 - **Script Errors**: Make sure both GTA V and Kiddion's/Yim Menu are up to date, as compatibility with commands may vary across versions.
 
+Extra Resources:
+- https://www.unknowncheats.me/forum/general-programming-and-reversing/124013-xenos-injector-v2-3-2-a.html
+- https://www.unknowncheats.me/forum/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html
+Use Xenos Injector ou Extreme Injector
+
 -------------
